@@ -4,7 +4,7 @@
 
 ## Requirements
 
-- Python 3 (code written for py3.7)
+- Python 3 (tested on py3.5 and py3.7)
 - A peertube account somewhere
 
 ## Install
