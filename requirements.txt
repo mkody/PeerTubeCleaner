@@ -1,2 +1,3 @@
 requests ~= 2.19
 tqdm ~= 4.26
+python-dateutil ~= 2.7
