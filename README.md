@@ -1,5 +1,7 @@
 # PeerTubeCleaner
 [![Liberapay receiving](https://img.shields.io/liberapay/receives/kdy.svg)](https://liberapay.com/kdy/donate)
+[![Travis Build Status](https://travis-ci.org/mkody/PeerTubeCleaner.svg?branch=master)](https://travis-ci.org/mkody/PeerTubeCleaner)
+[![PEP8](https://img.shields.io/badge/code%20style-pep8-green.svg)](https://www.python.org/dev/peps/pep-0008/)
 [![GitHub](https://img.shields.io/github/license/mkody/PeerTubeCleaner.svg)](https://github.com/mkody/PeerTubeCleaner/blob/master/LICENSE)
 
 > Un coup de Fertilinet sur les vieilles vidéos que l'on ne veut pas conserver.
