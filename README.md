@@ -1,4 +1,6 @@
 # PeerTubeCleaner
+[![Liberapay receiving](https://img.shields.io/liberapay/receives/kdy.svg)](https://liberapay.com/kdy/donate)
+[![GitHub](https://img.shields.io/github/license/mkody/PeerTubeCleaner.svg)](https://github.com/mkody/PeerTubeCleaner/blob/master/LICENSE)
 
 > Un coup de Fertilinet sur les vieilles vidéos que l'on ne veut pas conserver.
 
@@ -10,7 +12,7 @@
 ## Install
 
 - Install dependencies: `$ pip install -r requirements.txt`
-- Copy example config to `config.json` file and edit it
+- Copy the example config file to `config.json` and edit it. _(Optional, read below how to use args for this.)_
   - `host`: Where the PeerTube instance is hosted, without a trailing slash (ie. `https://tube.kdy.ch`)
   - `username`: Your username
   - `password`: Your password
