@@ -1,4 +1,7 @@
 language: python
+addons:
+  sonarcloud:
+    organization: "mkody-github"
 python:
   - "3.5"
   - "3.6"
@@ -7,4 +10,8 @@ install:
   - pip install flake8
 script:
   - flake8 .
-
+jobs:
+  include:
+    - stage: "sonar"
+      script: sonar-scanner
+      python: "3.6"
